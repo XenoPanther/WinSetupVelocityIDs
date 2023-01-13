@@ -1,4 +1,4 @@
-# Repo for Windows Setup media velocity IDs
+# Windows Setup media velocity IDs
 Most of these velcoity IDs may also exist in the full build of Windows. For a full list of velocity IDs, check out the mach2 repo below.
 
 ## Thanks
