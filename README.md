@@ -3,5 +3,5 @@ Most of these velcoity IDs may also exist in the full build of Windows. For a fu
 
 ## Thanks
 Huge thanks to 
-* Microsoft for develop Windows
+* Microsoft for developing Windows
 * [riverar](https://twitter.com/WithinRafael) for developing [mach2](https://github.com/riverar/mach2).
