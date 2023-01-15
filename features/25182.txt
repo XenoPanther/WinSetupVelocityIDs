@@ -1,0 +1,46 @@
+## Unknown:
+
+  ANSCTests: 30267148
+  AUXEMP: 30188590
+  AppraiserSVChecks: 32064666
+  ArbiterMetadataContainer: 38339672
+  ChecksForTPMandCPU: 33777183
+  DTests: 31565736
+  GIPKOR: 23660839
+  IPPoverUSB: 18550900
+  InputServiceLogon: 13068691
+  InputServiceSecureDesktop: 35515749
+  InputSupportForBcp47: 34762752
+  InsiderPreviewBranding: 14096858
+  KSOD: 34912776
+  MSIXPackageFiltering: 38666472
+  OfflineCapableStartMenuMigrationPlugin: 14909879
+  PreinstalledAppSupport: 35286366
+  RemoveMctX86Support: 31397761
+  RemoveUpgradeNowEntrypoints: 31397772
+  Servicing_37313118: 37313118
+  Servicing_Setup_Dots_Pause: 40247686
+  TD: 28777534
+  TSF1Fallback: 35590812
+  TUC: 29534009
+  Tsf3ImeExperienceLogon: 35578244
+  Upgrade_KeepBitLockerActive: 11875329
+  Upgrade_MediaScenario_ForceAcceptEulaInDownLevelOS: 32434707
+  Upgrade_UpdateScenario_ForceAcceptEulaInDownLevelOS: 33232408
+  VTest: 31070505
+  WUIOD: 26487590
+  WinREServicingUsingAI: 39415330
+  XamlKeyboardLogon: 7438994
+
+## Always Enabled:
+
+
+## Enabled By Default:
+
+
+## Disabled By Default:
+
+
+## Always Disabled:
+
+
