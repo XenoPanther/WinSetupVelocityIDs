@@ -1,0 +1,10 @@
+--- "a/C:\\Users\\Xeno\\Documents\\Repos\\WinSetupIDs\\features\\25272.txt"
++++ "b/C:\\Users\\Xeno\\Documents\\Repos\\WinSetupIDs\\features\\25276.txt"
+@@ -16,6 +16,7 @@
+   LoadExtraUAInstance: 34221815
+   MSIXPackageFiltering: 38666472
+   OfflineCapableStartMenuMigrationPlugin: 14909879
++  OnePackageApplicability: 41790234
+   PreinstalledAppSupport: 35286366
+   RemoveMctX86Support: 31397761
+   RemoveUpgradeNowEntrypoints: 31397772
