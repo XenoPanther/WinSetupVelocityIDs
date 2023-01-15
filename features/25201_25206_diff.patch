@@ -1,0 +1,20 @@
+diff --git a/25201.txt b/25206.txt
+index 442bfaf..937925f 100644
+--- a/25201.txt
++++ b/25206.txt
+@@ -18,7 +18,6 @@
+   RemoveMctX86Support: 31397761
+   RemoveUpgradeNowEntrypoints: 31397772
+   Servicing_37313118: 37313118
+-  Servicing_CBSTempCleanup: 40360962
+   Servicing_Setup_Dots_Pause: 40247686
+   TD: 28777534
+   TSF1Fallback: 35590812
+@@ -30,6 +29,7 @@
+   Upgrade_UpdateScenario_ForceAcceptEulaInDownLevelOS: 33232408
+   WUIOD: 26487590
+   WinREServicingUsingAI: 39415330
++  WriteFlightInfoInQU: 40680682
+   XamlKeyboardLogon: 7438994
+ 
+ ## Always Enabled:

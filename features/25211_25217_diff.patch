@@ -1,0 +1,12 @@
+diff --git a/25211.txt b/25217.txt
+index 937925f..47d1466 100644
+--- a/25211.txt
++++ b/25217.txt
+@@ -27,6 +27,7 @@
+   Upgrade_KeepBitLockerActive: 11875329
+   Upgrade_MediaScenario_ForceAcceptEulaInDownLevelOS: 32434707
+   Upgrade_UpdateScenario_ForceAcceptEulaInDownLevelOS: 33232408
++  UseUplevelSSU: 40801776
+   WUIOD: 26487590
+   WinREServicingUsingAI: 39415330
+   WriteFlightInfoInQU: 40680682

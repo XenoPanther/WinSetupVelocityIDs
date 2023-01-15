@@ -1,0 +1,12 @@
+diff --git a/25217.txt b/25227.txt
+index 47d1466..3f9bc3e 100644
+--- a/25217.txt
++++ b/25227.txt
+@@ -19,6 +19,7 @@
+   RemoveUpgradeNowEntrypoints: 31397772
+   Servicing_37313118: 37313118
+   Servicing_Setup_Dots_Pause: 40247686
++  Servicing_WinRE_Reservicing: 41504553
+   TD: 28777534
+   TSF1Fallback: 35590812
+   TUC: 29534009
