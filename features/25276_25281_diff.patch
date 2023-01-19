@@ -1,0 +1,13 @@
+diff --git a/25276.txt b/25281.txt
+index 07a0789..a4d6987 100644
+--- a/25276.txt
++++ b/25281.txt
+@@ -24,6 +24,8 @@
+   Servicing_42039263: 42039263
+   Servicing_Setup_Dots_Pause: 40247686
+   Servicing_WinRE_Reservicing: 41504553
++  Setup_ReFSEnabled: 42189933
++  StageDuringDownload: 41666070
+   TSF1Fallback: 35590812
+   TUC: 29534009
+   Tsf3ImeExperienceLogon: 35578244
