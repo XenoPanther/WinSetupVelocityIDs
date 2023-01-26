@@ -1,0 +1,12 @@
+diff --git a/25281.txt b/25284.txt
+index a4d6987..5ac68a1 100644
+--- a/25281.txt
++++ b/25284.txt
+@@ -24,6 +24,7 @@
+   Servicing_42039263: 42039263
+   Servicing_Setup_Dots_Pause: 40247686
+   Servicing_WinRE_Reservicing: 41504553
++  Setup_AutomaticReFSDeploymentEnabled: 42783107
+   Setup_ReFSEnabled: 42189933
+   StageDuringDownload: 41666070
+   TSF1Fallback: 35590812
