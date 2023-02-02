@@ -1,0 +1,12 @@
+diff --git a/25284.txt b/25290.txt
+index 5ac68a1..c819d56 100644
+--- a/25284.txt
++++ b/25290.txt
+@@ -22,6 +22,7 @@
+   RemoveUpgradeNowEntrypoints: 31397772
+   Servicing_37313118: 37313118
+   Servicing_42039263: 42039263
++  Servicing_SetupFocusFix: 42513454
+   Servicing_Setup_Dots_Pause: 40247686
+   Servicing_WinRE_Reservicing: 41504553
+   Setup_AutomaticReFSDeploymentEnabled: 42783107
