@@ -1,0 +1,12 @@
+diff --git a/25295.txt b/25300.txt
+index c819d56..5705241 100644
+--- a/25295.txt
++++ b/25300.txt
+@@ -24,6 +24,7 @@
+   Servicing_42039263: 42039263
+   Servicing_SetupFocusFix: 42513454
+   Servicing_Setup_Dots_Pause: 40247686
++  Servicing_SmiUsageTelemetry: 42137598
+   Servicing_WinRE_Reservicing: 41504553
+   Setup_AutomaticReFSDeploymentEnabled: 42783107
+   Setup_ReFSEnabled: 42189933
