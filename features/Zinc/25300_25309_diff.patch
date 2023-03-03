@@ -1,0 +1,20 @@
+diff --git a/25300.txt b/25309.txt
+index 5705241..9b07738 100644
+--- a/25300.txt
++++ b/25309.txt
+@@ -22,6 +22,7 @@
+   RemoveUpgradeNowEntrypoints: 31397772
+   Servicing_37313118: 37313118
+   Servicing_42039263: 42039263
++  Servicing_ImprovedWinREServicing: 43255079
+   Servicing_SetupFocusFix: 42513454
+   Servicing_Setup_Dots_Pause: 40247686
+   Servicing_SmiUsageTelemetry: 42137598
+@@ -38,7 +39,6 @@
+   Upgrade_UpdateScenario_ForceAcceptEulaInDownLevelOS: 33232408
+   UseUplevelSSU: 40801776
+   WUIOD: 26487590
+-  WinREServicingUsingAI: 39415330
+   WriteFlightInfoInQU: 40680682
+   XamlKeyboardLogon: 7438994
+ 
