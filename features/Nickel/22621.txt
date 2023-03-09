@@ -1,0 +1,46 @@
+## Unknown:
+
+  ANSCTests: 30267148
+  AUXEMP: 30188590
+  AppraiserSVChecks: 32064666
+  ArbiterMetadataContainer: 38339672
+  ChecksForTPMandCPU: 33777183
+  CloudBMRSingleDownload: 37065183
+  DTests: 31565736
+  GIPKOR: 23660839
+  IPPoverUSB: 18550900
+  InputServiceLogon: 13068691
+  InputServiceSecureDesktop: 35515749
+  MoveTaskbarContextMenuControlsToSettingsApp: 29521909
+  OfflineCapableStartMenuMigrationPlugin: 14909879
+  PreinstalledAppSupport: 35286366
+  RemoveMctX86Support: 31397761
+  RemoveUpgradeNowEntrypoints: 31397772
+  Servicing_35180607: 35180607
+  Servicing_37313118: 37313118
+  Servicing_42039263: 42039263
+  Servicing_WindowsProUpgrade: 40999069
+  TD: 28777534
+  TSF1Fallback: 35590812
+  TUC: 29534009
+  Tsf3ImeExperienceLogon: 35578244
+  Upgrade_KeepBitLockerActive: 11875329
+  Upgrade_MediaScenario_ForceAcceptEulaInDownLevelOS: 32434707
+  Upgrade_UpdateScenario_ForceAcceptEulaInDownLevelOS: 33232408
+  UseDesktopTaskbarHandlerDll: 29521844
+  VTest: 31070505
+  WUIOD: 26487590
+  XamlKeyboardLogon: 7438994
+
+## Always Enabled:
+
+
+## Enabled By Default:
+
+
+## Disabled By Default:
+
+
+## Always Disabled:
+
+
